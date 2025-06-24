@@ -1,7 +1,8 @@
 {
   "extensions": [
     {
-      "name": "Aniyomi: AniZone",
+       "name": "hayase-AniZone",
+      "version": "1.0.6",  
       "pkg": "eu.kanade.tachiyomi.animeextension.all.anizone",
       "apk": "aniyomi-all.anizone-v14.4.apk",
       "lang": "all",
@@ -18,7 +19,8 @@
       ]
     },
     {
-      "name": "Aniyomi: Sudatchi",
+       "name": "hayase-sudatchi",
+      "version": "1.0.6",  
       "pkg": "eu.kanade.tachiyomi.animeextension.all.sudatchi",
       "apk": "aniyomi-all.sudatchi-v14.7.apk",
       "lang": "all",
@@ -35,7 +37,8 @@
       ]
     },
     {
-      "name": "Aniyomi: Anime-Sama",
+       "name": "hayase-animesama",
+      "version": "1.0.6",  
       "pkg": "eu.kanade.tachiyomi.animeextension.fr.animesama",
       "apk": "aniyomi-fr.animesama-v14.17.apk",
       "lang": "fr",
@@ -52,7 +55,8 @@
       ]
     },
     {
-      "name": "Aniyomi: AniSama",
+       "name": "hayase-anisama",
+      "version": "1.0.6",  
       "pkg": "eu.kanade.tachiyomi.animeextension.fr.anisama",
       "apk": "aniyomi-fr.anisama-v14.8.apk",
       "lang": "fr",
@@ -69,7 +73,8 @@
       ]
     },
     {
-      "name": "Aniyomi: FrAnime",
+       "name": "hayase-franime",
+      "version": "1.0.6",  
       "pkg": "eu.kanade.tachiyomi.animeextension.fr.franime",
       "apk": "aniyomi-fr.franime-v14.15.apk",
       "lang": "fr",
@@ -86,7 +91,8 @@
       ]
     },
     {
-      "name": "Aniyomi: French Anime",
+       "name": "hayase-frenchanime",
+      "version": "1.0.6",  
       "pkg": "eu.kanade.tachiyomi.animeextension.fr.frenchanime",
       "apk": "aniyomi-fr.frenchanime-v14.10.apk",
       "lang": "fr",
@@ -103,7 +109,8 @@
       ]
     },
     {
-      "name": "Aniyomi: HDS",
+       "name": "hayase-hds",
+      "version": "1.0.6",  
       "pkg": "eu.kanade.tachiyomi.animeextension.fr.hds",
       "apk": "aniyomi-fr.hds-v14.6.apk",
       "lang": "fr",
@@ -120,7 +127,8 @@
       ]
     },
     {
-      "name": "Aniyomi: JetAnime",
+       "name": "hayase-jetanime",
+      "version": "1.0.6",  
       "pkg": "eu.kanade.tachiyomi.animeextension.fr.jetanime",
       "apk": "aniyomi-fr.jetanime-v14.13.apk",
       "lang": "fr",
@@ -137,7 +145,8 @@
       ]
     },
     {
-      "name": "Aniyomi: Vostfree",
+       "name": "hayase-vostfree",
+      "version": "1.0.6",  
       "pkg": "eu.kanade.tachiyomi.animeextension.fr.vostfree",
       "apk": "aniyomi-fr.vostfree-v14.21.apk",
       "lang": "fr",
@@ -153,8 +162,8 @@
         }
       ]
     },
-    {
-      "name": "Aniyomi: Wiflix",
+    { "name": "hayase-wiflix",
+      "version": "1.0.6",  
       "pkg": "eu.kanade.tachiyomi.animeextension.fr.wiflix",
       "apk": "aniyomi-fr.wiflix-v14.10.apk",
       "lang": "fr",
